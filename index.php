@@ -23,7 +23,7 @@ if (mysqli_connect_error()) {
 
 <h1>Dashboard</h1>
 
-
+<p> this is a text from the browser    </p>
 
 <?php include ('footer.php') ?>
 
