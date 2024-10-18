@@ -21,7 +21,7 @@ if (mysqli_connect_error()) {
 
 
 
-<h1>asdf</h1>
+<h1>Dashboard</h1>
 
 
 
